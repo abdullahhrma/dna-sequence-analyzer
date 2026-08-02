@@ -1,4 +1,4 @@
-# DNA Sequence Analyzer
+<!-- # DNA Sequence Analyzer
 
 A Python project for performing basic DNA sequence analysis. This project was built as part of my journey to learn Python and apply programming to biotechnology and bioinformatics.
 
@@ -80,4 +80,4 @@ RNA Transcript      : AUCGAUCG
 
 ## About
 
-This project is part of my **Python for Biotechnology** learning journey, where I build practical Python applications related to biology and bioinformatics.
+This project is part of my **Python for Biotechnology** learning journey, where I build practical Python applications related to biology and bioinformatics. -->
